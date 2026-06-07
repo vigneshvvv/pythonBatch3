@@ -5,7 +5,7 @@ class DataBase:
         conn = mysql.connector.connect(
             host = "localhost",
             user = "root",
-            password = "Vignesh333#",
+            password = "",
             database= "javatrainingpro"
         )
 
